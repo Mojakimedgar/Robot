@@ -6,6 +6,8 @@ You'll need an MQTT broker to handle the communication between MySQL and OpenRem
 
 Navigate to Mosquitto Directory
 -------------------------------
+Download Mosquitto
+
  cd "C:\Program Files\mosquitto"
 Start mosquitto
 -----------------
