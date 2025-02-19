@@ -60,6 +60,8 @@ Search and Install: In the search bar, type paho-mqtt and click Install Package.
 ##Write a script to fetch data from MySQL and publish it to the MQTT broker. Here's an example using Python: //Scripts are done
 
 Step 4: Set Up OpenRemote MQTT Agent
+Dowload openremote
+
 In OpenRemote, create an MQTT Agent to subscribe to the topic you're publishing to. Here's how:
 
 Create an MQTT Agent: Go to the OpenRemote Manager UI and create a new MQTT Agent.
