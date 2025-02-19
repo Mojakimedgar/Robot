@@ -57,7 +57,7 @@ Project Interpreter: In the left pane, select Project: <Your Project Name> and t
 Add Packages: Click on the + button on the right side of the window to open the Available Packages dialog.
 Search and Install: In the search bar, type paho-mqtt and click Install Package. Repeat the process for mysql-connector-python
 
-##Write a script to fetch data from MySQL and publish it to the MQTT broker. Here's an example using Python: //Done
+##Write a script to fetch data from MySQL and publish it to the MQTT broker. Here's an example using Python: //Scripts are done
 
 Step 4: Set Up OpenRemote MQTT Agent
 In OpenRemote, create an MQTT Agent to subscribe to the topic you're publishing to. Here's how:
